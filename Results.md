@@ -7,7 +7,8 @@
 
    **(2) DR-LTT**
 
-   ![image-20240817124030429](C:\Users\Y\AppData\Roaming\Typora\typora-user-images\image-20240817124030429.png)
+   ![image](https://github.com/user-attachments/assets/49e66631-30bd-4a21-a81c-abcdc4264619)
+
 
    **(3) SC-LTT**
 
