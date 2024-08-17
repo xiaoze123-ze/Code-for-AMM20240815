@@ -2,7 +2,8 @@
 
    **(1) TA-LTT**
 
-   ![image-20240817123955752](C:\Users\Y\AppData\Roaming\Typora\typora-user-images\image-20240817123955752.png)
+   ![image](https://github.com/user-attachments/assets/3db3c4a7-0127-40e2-9f30-d52194bad3f1)
+
 
    **(2) DR-LTT**
 
