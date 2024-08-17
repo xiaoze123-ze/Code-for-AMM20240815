@@ -12,7 +12,8 @@
 
    **(3) SC-LTT**
 
-   ![image-20240817124054755](C:\Users\Y\AppData\Roaming\Typora\typora-user-images\image-20240817124054755.png)
+   ![image](https://github.com/user-attachments/assets/a3d55ce0-a820-473c-88d0-4d6da35fe4e9)
+
 
 2. **Destination reachability and path allocation scheme of each od pair**
 
